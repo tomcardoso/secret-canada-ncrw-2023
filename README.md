@@ -1,4 +1,4 @@
-# Toronto Data Workshop 2023: Unlocking Secret Canada
+# National Claims Research Workshop 2023: Unlocking Secret Canada
 
 Links to articles relevant to this talk:
 
